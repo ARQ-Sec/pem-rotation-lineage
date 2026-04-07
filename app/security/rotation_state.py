@@ -1,2 +1,2 @@
 def state() -> str:
-    return 'safe'
+    return 'rotated-b'
